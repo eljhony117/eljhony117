@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eljhony117
-- 👀 I’m interested in creating games an learn about programing. 
-- 🌱 I’m currently learning c++ and phyton. 
-- 💞️ I’m not looking to collaborate with something for the moment xd.
+- 👀 I’m interested in developing web tools and apps. 
+- 🌱 I’m currently learning many things about code (c++, python, java, etc) 
 - 📫 How to reach me? Just write me and i'll answer your message as soon as posible. 
 
 <!---
